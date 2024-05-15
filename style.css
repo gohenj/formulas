@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height:100vh;
-    background: url('novo\ fundo.jpg') no-repeat;
+    background: url('img/novo\ fundo.jpg') no-repeat;
     background-position: center;
 }
 
